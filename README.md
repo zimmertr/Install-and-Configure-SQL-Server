@@ -1,4 +1,4 @@
-# Install and Configure SQL Server
+# SQL Server Configurator
 
 ## Summary
 
